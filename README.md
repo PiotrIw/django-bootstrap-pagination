@@ -1,4 +1,4 @@
-# Project No Longer Maintained
+# Project No Longer Maintained - forked and updated for django 3.2 compatibility
 
 This project lived a long and useful life, but it's been inactive for quite some time and I believe its relevancy has faded.
 
